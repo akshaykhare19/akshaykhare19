@@ -1,5 +1,5 @@
 
-<h2 align="center">:pray:Hello, I am Akshay Khare</h2>
+<h2 align="center">:pray:Hello, I am Akshay Khare:pray:</h2>
 <p align="center">B.Tech CSE @ <strong>Bhagwan Parshuram Institute Of Technology</strong></p>
 <p align="center">Android Developer</p>
 <hr>
@@ -9,7 +9,7 @@
 <h2 align="center">If You Want To Collaborate, I'm Availabe On</h2>
 <p align="center">
 	<code>
-		<a style="text-decoration: none" href="https://www.linkedin.com/in/akshay-khare/" target="blank">
+		<a style="text-decoration: none" href="https://www.linkedin.com/in/akshay-khare/">
 			<img
 				src="https://www.loginhit.com.ng/wp-content/uploads/2019/09/LinkedIn-1.jpg"
 				alt="Akshay Khare LinkedIn"
