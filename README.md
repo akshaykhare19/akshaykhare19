@@ -1,132 +1,83 @@
+<h1 align="center">Hi, I'm Akshay Khare 👋</h1>
+<h3 align="center">Android Developer (Kotlin/Java) — Pivoting into Backend / Fullstack</h3>
 
-<h2 align="center">:pray:Hello, I am Akshay Khare:pray:</h2>
-<p align="center">B.Tech CSE @ <strong>Bhagwan Parshuram Institute Of Technology</strong></p>
-<p align="center">Android Developer</p>
-<hr>
-
-
-
-<h2 align="center">If You Want To Collaborate, I'm Availabe On</h2>
 <p align="center">
-	<code>
-		<a style="text-decoration: none" href="https://www.linkedin.com/in/akshay-khare/" target="_blank">
-			<img
-				src="https://www.loginhit.com.ng/wp-content/uploads/2019/09/LinkedIn-1.jpg"
-				alt="Akshay Khare LinkedIn"
-				height="40"
-				width="40"
-			/>
-		</a>
-	</code>
-	<code>
-		<a style="text-decoration: none" href="mailto:akhare931@gmail.com" target="blank">
-			<img
-				src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"
-				alt="Akshay Khare GMail"
-				height="40"
-				width="40"
-			/>
-		</a>
-	</code>
-</p>
-<br />
-
-<h2 align="center">I'm Familiar With</h2>
-<p align="center">
-	<code>
-		<a style="text-decoration: none" href="https://www.w3.org/html/" target="_blank">
-			<img
-				src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"
-				alt="html5"
-				width="40"
-				height="40"
-			/>
-		</a>
-	</code>
-	<code>
-		<a style="text-decoration: none" href="https://www.w3schools.com/css/" target="_blank">
-			<img
-				src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"
-				alt="css3"
-				width="40"
-				height="40"
-			/>
-		</a>
-	</code>
-	<code>
-		<a style="text-decoration: none" href="https://getbootstrap.com" target="_blank">
-			<img
-				src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"
-				alt="bootstrap"
-				width="40"
-				height="40"
-			/>
-		</a>
-	</code>
-	<code>
-		<a style="text-decoration: none" href="https://reactjs.org/" target="_blank">
-			<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" />
-		</a>
-	</code>
-	<code>
-		<a style="text-decoration: none" href="https://nodejs.org" target="_blank">
-			<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40" />
-		</a>
-	</code>
-	<code>
-		<a style="text-decoration: none" href="https://expressjs.com" target="_blank">
-			<img
-				src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"
-				alt="express"
-				width="40"
-				height="40"
-			/>
-		</a>
-	</code>
-	<code>
-		<a style="text-decoration: none" href="https://heroku.com" target="_blank">
-			<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
-		</a>
-	</code>
-	<code>
-		<a style="text-decoration: none" href="https://www.mongodb.com/" target="_blank">
-			<img
-				src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
-				alt="mongodb"
-				width="40"
-				height="40"
-			/>
-		</a>
-	</code>
-	<code>
-		<a style="text-decoration: none" href="https://www.python.org/" target="_blank">
-			<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" />
-		</a>
-	</code>
-  <code>
-		<a style="text-decoration: none" href="https://in.mathworks.com/" target="_blank">
-			<img src="https://png.pngitem.com/pimgs/s/511-5117629_logo-matlab-hd-png-download.png" width="40" height="40" />
-		</a>
-	</code>
+  B.Tech CSE @ <strong>Bhagwan Parshuram Institute of Technology</strong>
 </p>
 
-<hr />
-<br />
 <p align="center">
-	<img
-		src="https://github-readme-stats.vercel.app/api?username=akshaykhare19&show_icons=true&locale=en&theme=radical&count_private=true"
-		alt="Akshay Khare"
-	/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Building+Android+apps+in+Kotlin;Learning+Backend+%2F+System+Design;Shipping+side+projects+on+weekends" alt="Typing SVG" />
 </p>
+
+---
+
+<h3 align="center">🧭 About Me</h3>
+
 <p align="center">
-	<img
-		src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykhare19&theme=tokyonight"
-		alt="Akshay Khare"
-	/>
+  📱 Android Developer (Kotlin/Java) building production apps<br/>
+  🔄 Pivoting to Backend/Fullstack — currently building <!-- specific project --> with <!-- specific stack --><br/>
+  🛠️ Comfortable end-to-end: mobile UI, REST APIs, and basic system design<br/>
+  🎯 Open to Backend/Fullstack roles in 2026<br/>
+  🎸 Off-screen: playing guitar
 </p>
+
+---
+
+### 🧰 Tech Stack
+
 <p align="center">
-	<img
-		src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaykhare19&show_icons=true&locale=en&layout=compact&theme=radical"
-		alt="Akshay Khare"
-	/>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,git,github,html,css,js,py&theme=dark" alt="Skills" />
+</p>
+
+<!-- Add backend stack icons as you pick them up, e.g.:
+https://skillicons.dev/icons?i=java,kotlin,androidstudio,spring,mysql,postgres,docker,aws,git,github
+-->
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshaykhare19&show_icons=true&locale=en&theme=radical&count_private=true" alt="Akshay's GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykhare19&theme=radical" alt="Akshay's GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykhare19&layout=compact&locale=en&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📌 Pinned / Side Projects
+
+<!-- Swap these for your actual repo names — GitHub auto-fills the card from the repo -->
+<p align="center">
+  <a href="https://github.com/akshaykhare19/REPO_NAME_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshaykhare19&repo=REPO_NAME_1&theme=radical" />
+  </a>
+  <a href="https://github.com/akshaykhare19/REPO_NAME_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshaykhare19&repo=REPO_NAME_2&theme=radical" />
+  </a>
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshay-khare/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:akhare931@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <!-- Add Twitter/X, portfolio site, or blog here if you have one:
+  <a href="https://twitter.com/YOUR_HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  -->
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akshaykhare19&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
