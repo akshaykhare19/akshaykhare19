@@ -1,83 +1,155 @@
-<h1 align="center">Hi, I'm Akshay Khare 👋</h1>
-<h3 align="center">Android Developer (Kotlin/Java) — Pivoting into Backend / Fullstack</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Akshay&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%" alt="header banner"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=800&color=D4537E&center=true&vCenter=true&width=780&lines=Android+%26+Backend+Engineer+%7C+Pivoting+into+Fullstack;2.5%2B+years+building+production+systems+in+Java+%2F+Kotlin;Shipped+APIs+that+cut+downtime+tickets+by+80%25;Building+an+AI+testing+agent+with+Claude+%2B+Playwright" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=akshaykhare19&label=Profile%20Views&color=D4537E&style=flat-square" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/akshaykhare19?label=Followers&style=flat-square&color=7F77DD" alt="followers"/>
+
+</div>
+
+---
+
+### 🚀 About me
+
+- 💼 Software Engineer at **Accenture** — building public APIs, CI/CD pipelines, and AI-driven automation
+- 🔄 Currently pivoting from **Android development** toward **Backend / Fullstack engineering**
+- 🤖 Built an AI testing agent (Claude + Playwright) that cut manual testing effort by ~75%
+- 📈 Reduced monthly downtime tickets from ~5 to ~1 by shifting a system from reactive to proactive alerting
+- 🌱 400+ DSA problems solved on LeetCode & GeeksforGeeks
+- 🏆 Received the **Pinnacle Award (2024)** and **Ace Award (2025)** at Accenture
+
+---
+
+### 🛠️ Tech stack
+
+<table align="center">
+<tr>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/><br/><sub><b>Java</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin"/><br/><sub><b>Kotlin</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/><br/><sub><b>C++</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL"/><br/><sub><b>SQL</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio"/><br/><sub><b>Android Studio</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Material UI"/><br/><sub><b>Material UI</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase"/><br/><sub><b>Firebase</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA"/><br/><sub><b>IntelliJ IDEA</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br/><sub><b>Git</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab"/><br/><sub><b>GitLab</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/><br/><sub><b>Postman</b></sub></td>
+</tr>
+</table>
 
 <p align="center">
-  B.Tech CSE @ <strong>Bhagwan Parshuram Institute of Technology</strong>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Building+Android+apps+in+Kotlin;Learning+Backend+%2F+System+Design;Shipping+side+projects+on+weekends" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/MVVM-D4537E?style=flat-square" alt="MVVM"/>
+  <img src="https://img.shields.io/badge/Coroutines-7F77DD?style=flat-square" alt="Coroutines"/>
+  <img src="https://img.shields.io/badge/Room-EF9F27?style=flat-square" alt="Room"/>
+  <img src="https://img.shields.io/badge/Retrofit-1D9E75?style=flat-square" alt="Retrofit"/>
+  <img src="https://img.shields.io/badge/REST_API-378ADD?style=flat-square" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Claude_API-A5915F?style=flat-square" alt="Claude API"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square" alt="JIRA"/>
 </p>
 
 ---
 
-<h3 align="center">🧭 About Me</h3>
+### 📊 GitHub stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshaykhare19&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=akshaykhare19&theme=radical&hide_border=true" alt="GitHub streak" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykhare19&layout=compact&theme=radical&hide_border=true" alt="Top languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akshaykhare19&theme=radical&no-frame=true&row=1&column=6" alt="trophies"/>
+</div>
+
+---
+
+### 💡 Featured projects
+
+<table>
+<tr>
+<td width="50%">
+
+**💬 ChitChat**
+Real-time one-to-one Android chat app with phone-auth and optimized Firebase reads/writes.
+`Java` `Firebase Realtime DB` `Firebase Storage`
+<br/>
+<a href="#">Repo link — add yours here</a>
+
+</td>
+<td width="50%">
+
+**🧮 Striver SDE Sheet Challenge**
+Structured DSA problem-solving practice covering arrays, graphs, DP, and interview patterns.
+`Java` `DSA`
+<br/>
+<a href="https://github.com/akshaykhare19/Striver-SDE-Sheet-Challenge">View repo</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🔧 [Project name] — placeholder**
+One-line description of what it does and why it's interesting.
+`Tech` `Stack` `Here`
+<br/>
+<a href="#">Add repo link</a>
+
+</td>
+<td width="50%">
+
+**🔧 [Project name] — placeholder**
+One-line description of what it does and why it's interesting.
+`Tech` `Stack` `Here`
+<br/>
+<a href="#">Add repo link</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🤝 Soft skills
 
 <p align="center">
-  📱 Android Developer (Kotlin/Java) building production apps<br/>
-  🔄 Pivoting to Backend/Fullstack — currently building <!-- specific project --> with <!-- specific stack --><br/>
-  🛠️ Comfortable end-to-end: mobile UI, REST APIs, and basic system design<br/>
-  🎯 Open to Backend/Fullstack roles in 2026<br/>
-  🎸 Off-screen: playing guitar
+  <img src="https://img.shields.io/badge/Ownership--driven-D4537E?style=flat-square" alt="Ownership-driven"/>
+  <img src="https://img.shields.io/badge/Clear_communicator-7F77DD?style=flat-square" alt="Clear communicator"/>
+  <img src="https://img.shields.io/badge/Comfortable_with_ambiguity-EF9F27?style=flat-square" alt="Comfortable with ambiguity"/>
+  <img src="https://img.shields.io/badge/Automation_mindset-1D9E75?style=flat-square" alt="Automation mindset"/>
+  <img src="https://img.shields.io/badge/Mentorship-D85A30?style=flat-square" alt="Mentorship"/>
 </p>
 
 ---
 
-### 🧰 Tech Stack
+### 🎸 Beyond the code
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,git,github,html,css,js,py&theme=dark" alt="Skills" />
-</p>
-
-<!-- Add backend stack icons as you pick them up, e.g.:
-https://skillicons.dev/icons?i=java,kotlin,androidstudio,spring,mysql,postgres,docker,aws,git,github
--->
+Guitar, music, and harmonium fill the hours when I'm not shipping code — I'm as likely to be working out a riff as debugging a stack trace.
 
 ---
 
-### 📊 GitHub Stats
+### 📬 Let's connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshaykhare19&show_icons=true&locale=en&theme=radical&count_private=true" alt="Akshay's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykhare19&theme=radical" alt="Akshay's GitHub Streak" height="165"/>
-</p>
+<table align="center">
+<tr>
+<td align="center" width="90"><a href="https://linkedin.com/in/akshay-khare"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/></a><br/><sub><b>LinkedIn</b></sub></td>
+<td align="center" width="90"><a href="mailto:akshaykh0109@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email"/></a><br/><sub><b>Email</b></sub></td>
+<td align="center" width="90"><a href="https://github.com/akshaykhare19"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/></a><br/><sub><b>GitHub</b></sub></td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykhare19&layout=compact&locale=en&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 📌 Pinned / Side Projects
-
-<!-- Swap these for your actual repo names — GitHub auto-fills the card from the repo -->
-<p align="center">
-  <a href="https://github.com/akshaykhare19/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshaykhare19&repo=REPO_NAME_1&theme=radical" />
-  </a>
-  <a href="https://github.com/akshaykhare19/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshaykhare19&repo=REPO_NAME_2&theme=radical" />
-  </a>
-</p>
-
----
-
-### 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/akshay-khare/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:akhare931@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <!-- Add Twitter/X, portfolio site, or blog here if you have one:
-  <a href="https://twitter.com/YOUR_HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  -->
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akshaykhare19&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer banner"/>
