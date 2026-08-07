@@ -63,16 +63,11 @@
 ### 📊 GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshaykhare19&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=akshaykhare19&theme=radical&hide_border=true" alt="GitHub streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=akshaykhare19&theme=radical&hide_border=true" alt="GitHub streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykhare19&layout=compact&theme=radical&hide_border=true" alt="Top languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshaykhare19&theme=radical&no-frame=true&row=1&column=6" alt="trophies"/>
+  <img src="https://raw.githubusercontent.com/akshaykhare19/akshaykhare19/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
 </div>
 
 ---
