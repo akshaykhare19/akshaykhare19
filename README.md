@@ -17,7 +17,7 @@
 
 ### 🚀 About me
 
-- 💼 Software Engineer at **Accenture** — building public APIs, CI/CD pipelines, and AI-driven automation
+- 💼 Software Engineer — building public APIs, CI/CD pipelines, and AI-driven automation
 - 🔄 Currently pivoting from **Android development** toward **Backend / Fullstack engineering**
 - 🤖 Built an AI testing agent (Claude + Playwright) that cut manual testing effort by ~75%
 - 📈 Reduced monthly downtime tickets from ~5 to ~1 by shifting a system from reactive to proactive alerting
