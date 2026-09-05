@@ -82,7 +82,7 @@
 Real-time one-to-one Android chat app with phone-auth and optimized Firebase reads/writes.
 `Java` `Firebase Realtime DB` `Firebase Storage`
 <br/>
-<a href="#">Repo link — add yours here</a>
+<a href="#">Repo link — add here</a>
 
 </td>
 <td width="50%">
